@@ -3,7 +3,7 @@
 $con=new mysqli('localhost','root','','sample');
 if($con)
 {
-	echo "Database conneced successful";
+	echo "Database conneced successfullly";
 }
 else
 {
